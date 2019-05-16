@@ -228,7 +228,7 @@ a {
     font-weight: 200; }
     .site-navbar .site-logo a {
       font-weight: 200;
-      font-size: 26px;
+      font-size: 22px;
       color: #000; }
   .site-navbar .site-navigation .site-menu {
     margin-bottom: 0; }
@@ -491,7 +491,7 @@ a {
       width: 100%; }
       .site-mobile-menu .site-nav-wrap > li > a {
         padding-left: 20px;
-        font-size: 20px; }
+        font-size: 17px; }
       .site-mobile-menu .site-nav-wrap > li > ul {
         padding: 0;
         margin: 0;
@@ -543,7 +543,7 @@ a {
     font-size: 2rem; }
     @media (min-width: 992px) {
       .site-blocks-cover h1 {
-        font-size: 4rem;
+        font-size: 3.2rem;
         font-weight: 900;
         line-height: 1.2; } }
   .site-blocks-cover p {
@@ -1358,7 +1358,7 @@ a {
 .section-heading h2 {
   position: relative;
   display: inline-block;
-  font-size: 4rem;
+  font-size: 3.2rem;
   font-weight: bold; }
   @media (max-width: 991.98px) {
     .section-heading h2 {
